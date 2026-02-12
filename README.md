@@ -92,5 +92,3 @@ Link do YouTube (máx. 15 min):
 ## Autores
 
 Nomes: Felipe Ramos Santana e Leonardo Caricchio do Nascimento
-*Disciplina: Processamento de Imagens
-*Ano: 2026
